@@ -29,3 +29,10 @@ Building complex AI applications is very difficult!
 3. Code interpreter
    - Write, analyze code ...
 4. Function calling to execute custom tasks with ease
+
+
+## How to run
+```
+cd news-summarizer
+streamlit run main.py
+```
